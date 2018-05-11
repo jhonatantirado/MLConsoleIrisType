@@ -1,0 +1,11 @@
+D:\JTIRADO\MAESTRIA\MLConsoleApp\bin\Debug\netcoreapp2.0\MLConsoleApp.deps.json
+D:\JTIRADO\MAESTRIA\MLConsoleApp\bin\Debug\netcoreapp2.0\MLConsoleApp.runtimeconfig.json
+D:\JTIRADO\MAESTRIA\MLConsoleApp\bin\Debug\netcoreapp2.0\MLConsoleApp.runtimeconfig.dev.json
+D:\JTIRADO\MAESTRIA\MLConsoleApp\bin\Debug\netcoreapp2.0\MLConsoleApp.dll
+D:\JTIRADO\MAESTRIA\MLConsoleApp\bin\Debug\netcoreapp2.0\MLConsoleApp.pdb
+D:\JTIRADO\MAESTRIA\MLConsoleApp\obj\Debug\netcoreapp2.0\MLConsoleApp.csprojResolveAssemblyReference.cache
+D:\JTIRADO\MAESTRIA\MLConsoleApp\obj\Debug\netcoreapp2.0\MLConsoleApp.csproj.CoreCompileInputs.cache
+D:\JTIRADO\MAESTRIA\MLConsoleApp\obj\Debug\netcoreapp2.0\MLConsoleApp.AssemblyInfoInputs.cache
+D:\JTIRADO\MAESTRIA\MLConsoleApp\obj\Debug\netcoreapp2.0\MLConsoleApp.AssemblyInfo.cs
+D:\JTIRADO\MAESTRIA\MLConsoleApp\obj\Debug\netcoreapp2.0\MLConsoleApp.dll
+D:\JTIRADO\MAESTRIA\MLConsoleApp\obj\Debug\netcoreapp2.0\MLConsoleApp.pdb
